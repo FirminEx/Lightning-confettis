@@ -1,9 +1,3 @@
-Lightning Confetti
-
-You can always edit the DB (I recommend the VSCode extension SQLite3 Editor)
-
-LNBITS_API_KEY
-
 # Lightning Confetti
 
 Showcase the Lightning network payment. Users who successfully made a payment get a confettis on logging. Regular user can try to pay.
